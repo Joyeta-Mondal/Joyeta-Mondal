@@ -39,7 +39,7 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; flex-direction: row;">
-    <img src="https://avatars.githubusercontent.com/u/121033476?v=4" style="margin-right: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tusherbhakta&theme=vision_friendly_dark" style="margin-right: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tusherbhakta&theme=vision_friendly_dark&utcOffset=8">
 </div>
 
