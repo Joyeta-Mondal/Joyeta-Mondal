@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./github-header.png)
+<!-- ![Header](./github-header.png) -->
 
 </div>
 
