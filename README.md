@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- ![Header](./github-header.png) -->
+![Header](./github-header.png)
 
 </div>
 
@@ -39,28 +39,28 @@
 # 📊 GitHub Stats:
 
 <div style="display: flex; flex-direction: row;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tusherbhakta&theme=vision_friendly_dark" style="margin-right: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tusherbhakta&theme=vision_friendly_dark&utcOffset=8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joyeta-Mondal&theme=vision_friendly_dark" style="margin-right: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joyeta-Mondal&theme=vision_friendly_dark&utcOffset=8">
 </div>
 
 <br/>
 <br/>
 
 <div style="display: flex; flex-direction: row;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tusherbhakta&theme=vision_friendly_dark" style="margin-right: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tusherbhakta&theme=vision_friendly_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joyeta-Mondal&theme=vision_friendly_dark" style="margin-right: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joyeta-Mondal&theme=vision_friendly_dark">
 </div>
 
 <br/>
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tusherbhakta&theme=highcontrast&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joyeta-Mondal&theme=highcontrast&border_radius=10)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusherbhakta&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joyeta-Mondal&theme=vision_friendly_dark)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=tusherbhakta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Joyeta-Mondal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
@@ -68,10 +68,10 @@
 
 ### 🔝 Top Contributed Open Source Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=tusherbhakta&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Joyeta-Mondal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=tusherbhakta&icon=4&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Joyeta-Mondal&icon=4&color=4)](https://visitcount.itsvg.in)
 
 </div>
