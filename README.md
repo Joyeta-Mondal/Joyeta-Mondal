@@ -36,7 +36,7 @@
 
 </div>
 
-<p align="center">✨ Current activities<br>📚 I'm currently learning Next.Js<br>📚 Working on a full stack project related to educational institutions.<br>🎯 My goal is to : be consistent in github contribution. Being up-to-date about web development tools.<br>🎲 Fun fact: I love to sing while I'm coding!</p>
+<h4 align="center">✨ Current activities<br>📚 I'm currently learning Next.Js<br>📚 Working on a full stack project related to educational institutions.<br>🎯 My goal is to : be consistent in github contribution. Being up-to-date about web development tools.<br>🎲 Fun fact: I love to sing while I'm coding!</h4>
 
 # 📊 GitHub Stats:
 
