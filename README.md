@@ -10,7 +10,7 @@
 <h3 align="left">I am a B.Tech student at KIIT University, graduating in 2025, with a passion for full-stack web development. I’ve gained expertise in HTML, CSS, JavaScript, Tailwind CSS, React, Node.js, Express.js, and MongoDB. I also have experience with WordPress tools like Elementor and WPBakery, along with knowledge of MySQL. Additionally, I am skilled in programming languages such as C, C++, Java, and Python. I’m driven to learn and build impactful web and software applications.</h3>
 <br/>
 
-<h4>See my portfolio here : https://personal-portfolio-joyeta.netlify.app/</h4>
+<h2>See my portfolio here : https://personal-portfolio-joyeta.netlify.app/</h2>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
